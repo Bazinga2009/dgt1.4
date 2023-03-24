@@ -1,0 +1,15 @@
+Use terminal
+There is terminal button in top of window where file, edit, selection etc is. u should be able to find dumbass
+git pull
+
+/updates github repository
+1. git add *
+2. git commit -m "what version or what you changed"
+3. git push
+
+
+On your laptop or pc at school use 'git pull' to get the latest version from github
+
+only push once your done with everything you want to do
+
+

@@ -1,0 +1,61 @@
+body {
+  background-color: #555;
+}
+.homepage{
+  background-image: url(/assets/crowd1.png);
+  background-repeat: none;
+}
+img {
+  border: 15px darkslategrey;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #04aa6d;
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+/* .collage {
+  display: block;
+  height: auto;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+.home .maintitle {
+  font-weight: bold;
+  padding: 10px 16px;
+  font-size: 100px;
+  color: #04aa6d;
+  text-align: center;
+}
