@@ -12,4 +12,8 @@ On your laptop or pc at school use 'git pull' to get the latest version from git
 
 only push once your done with everything you want to do
 
+QUICK TIPS!!!!!
+YOU HAVE TO READ!!!!!
+1. only do git add * & git commit -m "WHATEVER" and git push AFTER you have done everything you need toooo.
+2. dont change anything unless you have done GIT PULL!!!!!!
 
