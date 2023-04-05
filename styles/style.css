@@ -1,12 +1,6 @@
 body {
-  background-color: #555;
-  background-repeat: none;
+  
   margin: 0;
-}
-
-.factsaboutartists {
-  background-image: url();
-  background-repeat: none;
 }
 
 
@@ -14,21 +8,15 @@ body {
   box-sizing: border-box;
 }
 
-.header {
-  text-align: center;
-  padding: 32px;
-}
-
 .hero {
   background-image: url(https://c0.wallpaperflare.com/preview/225/618/416/audience-backlit-black-and-white-blue.jpg);
   background-size: cover;
-  height: 100vh;
+  height: 100vh;   
   display: grid;
-  justify-content: left;
-  align-items: left;
 }
 
 .hero-text {
+  text-align: center
 }
 
 .hero-text h1 {
@@ -39,10 +27,6 @@ body {
 
 .hero-text p {
   font-size: 2rem;
-}
-
-.select {
-  float: left;
 }
 
 ul {
