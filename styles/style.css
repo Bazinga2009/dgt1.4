@@ -4,7 +4,7 @@
 }
 
 .hero {
-  background-image: url(https://c.pxhere.com/photos/f2/a3/uk_peterborough-398434.jpg!s2);
+  background-image: url(https://cdn.pixabay.com/photo/2018/06/29/17/47/guitar-3506370_1280.jpg);
   background-repeat: none;
   background-size: cover;
   height: 100vh;
@@ -26,6 +26,10 @@
 .hero-text p1 {
   font-size: 2rem;
   text-align: center;
+}
+
+.subheading {
+  font-size:  50px;
 }
 
 .rhino-text h1 {
