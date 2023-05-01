@@ -147,25 +147,27 @@
 
 .navbar a:hover,
 .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: #505050;
+  border-radius: 50px;
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: #505050;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
+  border-radius: 0px 0px 10px 10px;
 }
 
 .dropdown-content a {
   float: none;
-  color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
   text-align: left;
+  color: beige;
 }
 
 .dropdown-content a:hover {
@@ -190,7 +192,7 @@
   margin: 40px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   position: relative;
-  top: -30px;
+  top: 40px;
   left: -20px;
   /* border: 5px solid grey; */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -203,8 +205,8 @@
 .float-image-second {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   position: relative;
-  top: 10px;
-  left: -20px;
+  top: 200px;
+  left: -60px;
   /* border: 5px solid grey; */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
@@ -212,8 +214,8 @@
 .sixthimage {
   float: right;
   position: relative;
-  top: -30px;
-  left: -20px;
+  top: 160px;
+  left: -120px;
 }
 
 .text1 {
@@ -231,9 +233,9 @@
   float: right;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   position: relative;
-  top: 10px;
+  top: 200px;
   right: -10px;
-  left: -20px;
+  left: -210px;
   /* border: 5px solid grey; */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
@@ -242,8 +244,8 @@
   float: left;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   position: relative;
-  top: 50px;
-  left: -10px;
+  top: 200px;
+  left: 200px;
   /* border: 1px solid #ccc; */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
