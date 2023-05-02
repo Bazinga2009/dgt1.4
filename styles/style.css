@@ -170,6 +170,13 @@
   color: beige;
 }
 
+.text1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .dropdown-content a:hover {
   background-color: #ddd;
 }
@@ -192,10 +199,9 @@
   margin: 40px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   position: relative;
-  top: 40px;
-  left: -20px;
-  /* border: 5px solid grey; */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  top: -70px;
+  left: -190px;
+  box-shadow: 0 0 10px white;
 }
 
 .fifthimage {
@@ -205,24 +211,17 @@
 .float-image-second {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   position: relative;
-  top: 200px;
-  left: -60px;
-  /* border: 5px solid grey; */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  top: 95px;
+  left: -860px;
+  box-shadow: 0 0 10px white;
 }
 
 .sixthimage {
   float: right;
   position: relative;
-  top: 160px;
-  left: -120px;
-}
-
-.text1 {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 135px;
+  left: -290px;
+  box-shadow: 0 0 10px white;
 }
 
 .float-image-third {
@@ -233,19 +232,16 @@
   float: right;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   position: relative;
-  top: 200px;
-  right: -10px;
-  left: -210px;
-  /* border: 5px solid grey; */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  top: 90px;
+  left: 290px;
+  box-shadow: 0 0 10px white;
 }
 
 .eighthimage {
   float: left;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   position: relative;
-  top: 200px;
-  left: 200px;
-  /* border: 1px solid #ccc; */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  top: 50px;
+  left: 290px;
+  box-shadow: 0 0 10px white;
 }
